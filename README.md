@@ -1,2 +1,9 @@
 # Challenge Oracle ONE Conversor
-Conversor de Moedas, Temperatura e Distância em JAVA do Primeiro Challenge ONE Back End.
+
+## Conversor em Java do Primeiro Challenge ONE Back End.
+
+### Com funções de:
+
+* Converter Temperaturas;
+* Converter Moedas;
+* Converter Distâncias. 
