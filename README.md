@@ -8,4 +8,4 @@
 * Converter Moedas;
 * Converter Distâncias. 
 
-<img src='src/Conversor.png' width=300px>
+<img src='src/Conversor.png' width=400px>
