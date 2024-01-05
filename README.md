@@ -7,3 +7,5 @@
 * Converter Temperaturas;
 * Converter Moedas;
 * Converter Distâncias. 
+
+<img src='src/Conversor.png' width=300px>
